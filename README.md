@@ -2,7 +2,7 @@
 Created by students from the University of Minnesota Duluth.
 
 # About 
-A project made by @meepneptunium, @Rafi-99, and others
+A project made by @meepneptunium, @Rafi-99, and others for the purpose of preparing for a career in CS.
 
 # How to Navigate this Repo
 Currently this repo consists of 3 main folders: Advanced Topics, Fundamentals, and Optional. 
